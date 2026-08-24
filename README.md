@@ -1,11 +1,8 @@
 # Hi there, I'm Jassil 👋
-
-### HTML | JavaScript | Python | C
-
 [![Instagram](https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/__jassil__?igsi=MXF1ZDdjYWF5Z2U3cA==)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jassil-muhammed-a37564386)
 
----
+
 
 ## 🛠️ Tech Stack
 

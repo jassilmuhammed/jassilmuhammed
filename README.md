@@ -14,6 +14,7 @@
 ![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Adobe Lightroom](https://img.shields.io/badge/ADOBE_LIGHTROOM-31A8FF?style=for-the-badge&logo=adobelightroom&logoColor=white)
+![CapCut](https://img.shields.io/badge/CAPCUT-000000?style=for-the-badge&logo=capcut&logoColor=white)
 
 
 
